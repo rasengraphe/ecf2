@@ -1,0 +1,64 @@
+.hero-image {
+  width: 100% !important;
+  height: 200px !important;
+  object-fit: cover !important;
+  margin-bottom: 30px !important;
+}
+
+.icon-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #0d6efd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: -60px auto 20px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+body {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+h1 {
+  color: #0d6efd !important;
+  margin-bottom: 30px !important;
+}
+
+.table-responsive {
+  background-color: #fff !important;
+  padding: 20px !important;
+  border-radius: 8px !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.btn-success {
+  margin-bottom: 20px !important;
+}
+
+.btn-sm {
+  margin-right: 5px !important;
+}
+
+body {
+  background-color: #f8f9fa !important;
+  padding: 20px !important;
+}
+
+.form-container {
+  max-width: 800px !important;
+  margin: 0 auto !important;
+  background-color: #fff !important;
+  padding: 20px !important;
+  border-radius: 8px !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+}
+.contour_titre {
+  border-width: 3px !important;
+  border-color: #0d6efd !important;
+  max-width: 800px !important;
+}
+.BV {
+  font-weight: 600 !important;
+}
